@@ -44,6 +44,9 @@ set(USE_AOT_EXECUTOR OFF)
 set(USE_PROFILER OFF)
 set(USE_GTEST OFF)
 set(USE_LIBBACKTRACE OFF)
+set(USE_METAL ON)
+set(USE_OPENCL ON)
+set(USE_LLVM ON)
 add_subdirectory($ENV{TVM_HOME} tvm EXCLUDE_FROM_ALL)
 
 # sentencepiece config
