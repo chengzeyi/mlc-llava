@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/chengzeyi/repos/mlc-llm/ios/MLCChat-Mod.xcodeproj">
    </FileRef>
 </Workspace>

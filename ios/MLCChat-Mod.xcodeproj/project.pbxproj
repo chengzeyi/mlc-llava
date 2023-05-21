@@ -155,7 +155,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C0D643AA29F99A7F004DDAA4 /* Build configuration list for PBXProject "MLCChat" */;
+			buildConfigurationList = C0D643AA29F99A7F004DDAA4 /* Build configuration list for PBXProject "MLCChat-Mod" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -323,12 +323,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = MLCChat/MLCChat.entitlements;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MLCChat/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 3FR42MXLK9;
+				DEVELOPMENT_TEAM = 4ZY5J58367;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"HEADER_SEARCH_PATHS[arch=*]" = (
@@ -361,10 +360,9 @@
 					"-lsentencepiece",
 					"-ltokenizers_cpp",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mlc.Chat;
+				PRODUCT_BUNDLE_IDENTIFIER = "mlc-mod.Chat";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "mlc-chat-iosappstore";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "MLCChat/MLCChat-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -383,7 +381,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MLCChat/Preview Content\"";
-				DEVELOPMENT_TEAM = 3FR42MXLK9;
+				DEVELOPMENT_TEAM = 4ZY5J58367;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"HEADER_SEARCH_PATHS[arch=*]" = (
@@ -416,7 +414,7 @@
 					"-lsentencepiece",
 					"-ltokenizers_cpp",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mlc.Chat;
+				PRODUCT_BUNDLE_IDENTIFIER = "mlc-mod.Chat";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "MLCChat/MLCChat-Bridging-Header.h";
@@ -428,7 +426,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C0D643AA29F99A7F004DDAA4 /* Build configuration list for PBXProject "MLCChat" */ = {
+		C0D643AA29F99A7F004DDAA4 /* Build configuration list for PBXProject "MLCChat-Mod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C0D643BB29F99A80004DDAA4 /* Debug */,

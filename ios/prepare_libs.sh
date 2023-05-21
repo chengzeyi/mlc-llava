@@ -6,6 +6,7 @@ rustup target add aarch64-apple-ios
 mkdir -p build
 cd build
 cmake ../..\
+  -DLLVM_DIR=/usr/local/opt/llvm/lib/cmake/llvm\
   -DCMAKE_BUILD_TYPE=Release\
   -DCMAKE_SYSTEM_NAME=iOS\
   -DCMAKE_SYSTEM_VERSION=14.0\
