@@ -155,7 +155,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C0D643AA29F99A7F004DDAA4 /* Build configuration list for PBXProject "MLCChat-Mod" */;
+			buildConfigurationList = C0D643AA29F99A7F004DDAA4 /* Build configuration list for PBXProject "MLCChat" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -426,7 +426,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C0D643AA29F99A7F004DDAA4 /* Build configuration list for PBXProject "MLCChat-Mod" */ = {
+		C0D643AA29F99A7F004DDAA4 /* Build configuration list for PBXProject "MLCChat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C0D643BB29F99A80004DDAA4 /* Debug */,

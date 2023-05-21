@@ -17,7 +17,7 @@
                BlueprintIdentifier = "C0D643AE29F99A7F004DDAA4"
                BuildableName = "MLCChat.app"
                BlueprintName = "MLCChat"
-               ReferencedContainer = "container:MLCChat-Mod.xcodeproj">
+               ReferencedContainer = "container:MLCChat.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -50,7 +50,7 @@
             BlueprintIdentifier = "C0D643AE29F99A7F004DDAA4"
             BuildableName = "MLCChat.app"
             BlueprintName = "MLCChat"
-            ReferencedContainer = "container:MLCChat-Mod.xcodeproj">
+            ReferencedContainer = "container:MLCChat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -67,7 +67,7 @@
             BlueprintIdentifier = "C0D643AE29F99A7F004DDAA4"
             BuildableName = "MLCChat.app"
             BlueprintName = "MLCChat"
-            ReferencedContainer = "container:MLCChat-Mod.xcodeproj">
+            ReferencedContainer = "container:MLCChat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
